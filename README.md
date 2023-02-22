@@ -2,6 +2,8 @@
 
 Important steps for Git workflow:
 
+I'm making a chang to reflect git branches
+
 1. Git Init in the repository
 2. Create a .gitignore file
 3. Create changes to project files
